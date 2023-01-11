@@ -1,0 +1,20 @@
+{
+    "name": "wim/common",
+    "description": "php common utils code",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "common\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wim",
+            "email": "1404397383@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.1.3"
+    }
+}
