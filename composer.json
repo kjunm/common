@@ -1,5 +1,5 @@
 {
-    "name": "wim/common",
+    "name": "kjunm/common",
     "description": "php common utils code",
     "license": "MIT",
     "autoload": {
@@ -9,7 +9,7 @@
     },
     "authors": [
         {
-            "name": "wim",
+            "name": "wangjm",
             "email": "1404397383@qq.com"
         }
     ],
